@@ -1,9 +1,9 @@
 # 2019-2020-Antenna-design
 Microstrip antenna design using HFSS. operating freq=10 GHz for mobile phones
 
-Antenna Dimensions == substrate length = 40 mm _ Patch length=7.5mm _ Patch width= 10mm _ Gap length= 5.2mm (5.2/2=2.6) _ Gap width= 5.6mm (5.6/2)=2.8 _ feeding line length 4mm (4/2)=2_ width 3.52 mm (3.52/2)=1.76
+Antenna Dimensions /// substrate length = 40 mm //Patch length=7.5mm //Patch width= 10mm //Gap length= 5.2mm //Gap width= 5.6mm // feeding line length 4mm // width 3.52 mm
 
-Antenna Parameters== Max. U = 3.59 m.W/sr _  Max. G = 4.5653 _ Max. D = 4.8621 _ Radiated Power= 9.293 m.Watts _ Accepted Power= 9.897 m.Watts _ Incident Power= 10 m.Watts _ efficiency = 93.8 %
+Antenna Parameters /// Max. U = 3.59 m.W/sr _  Max. G = 4.5653 _ Max. D = 4.8621 _ Radiated Power= 9.293 m.Watts _ Accepted Power= 9.897 m.Watts _ Incident Power= 10 m.Watts _ efficiency = 93.8 %
 
 ![structure](https://user-images.githubusercontent.com/77674223/136120604-92d1a7f7-cdaa-4ae0-a8ec-dc7d96c3aec4.PNG)
 ![E field](https://user-images.githubusercontent.com/77674223/136121089-04f616f4-54a3-40cf-b165-2c58e620a346.PNG)
